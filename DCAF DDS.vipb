@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-11-18 16:20:39" Modified_Date="2016-11-21 15:40:31" Creator="Lee Harding" Comments="" ID="8ffc90c3bf3101427e715fe5605afed0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-11-18 16:20:39" Modified_Date="2016-11-21 16:18:20" Creator="Lee Harding" Comments="" ID="b303014c95325ec218c68a1236be7c43">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_dds</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -37,7 +37,7 @@
       <URL>http://ni.com/dcaf</URL>
       <Release_Notes>Initial release.
 
-Implements basic funcitonality, but does not yet expose advanced configuration options to the configuration editor.  All necessary hooks are already present in configuration and runtime classes to support, however.</Release_Notes>
+Supports basic types, not arrays or clusters.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
