@@ -20,9 +20,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="dds configuration.lvclass" Type="LVClass" URL="../module/configuration/dds configuration.lvclass"/>
-		<Item Name="dds editor node.lvclass" Type="LVClass" URL="../editor node/dds editor node.lvclass"/>
-		<Item Name="dds runtime.lvclass" Type="LVClass" URL="../module/execution/dds runtime.lvclass"/>
+		<Item Name="DDS configuration.lvclass" Type="LVClass" URL="../module/configuration/DDS configuration.lvclass"/>
+		<Item Name="DDS editor node.lvclass" Type="LVClass" URL="../editor node/DDS editor node.lvclass"/>
+		<Item Name="DDS runtime.lvclass" Type="LVClass" URL="../module/execution/DDS runtime.lvclass"/>
 		<Item Name="dds tests.lvlib" Type="Library" URL="../testing/dds tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -134,6 +134,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="write syslog.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Syslog Wrapper - Linux/write syslog.vi"/>
 			</Item>
+			<Item Name="DDS configuration2.lvclass" Type="LVClass" URL="../module/configuration/DDS configuration2.lvclass"/>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
