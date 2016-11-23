@@ -2,7 +2,7 @@
 <LVClass LVVersion="13008000">
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)[!!!*Q(C=\&gt;1R4A*"&amp;-&lt;R4W.B3[O&amp;BCN]6_!+8/%VRFB9U&amp;JSB8=&amp;LE"J_[\!&amp;5C-B38_G2W1QLARU=4#82YMX]T/`*B&gt;6GL&lt;J83BX&gt;DW`/87WBGLV@0B1U.W&lt;"^+Q^PJY?(]4^K`&gt;@ZR`K(PR_'Y@WT4F^N`_X`\XWY@P\W@RP]%P\N*:UV+&amp;:655'[`&lt;F@E26\E26\E2:\E3:\E3:\E32\E12\E12\E17ZSEZP=Z#9X?&gt;P*23ZSE&lt;-KR?4&amp;2-7AR1"&amp;:SAKXAJ0Y3E]B9?P+DS&amp;J`!5HM*$&amp;R7?QF.Y#E`BY416HM*4?!J0Y7'I*KGWE_-J0!SPR*.Y%E`C34R-K=34!*,*EI'417!I;5Q/%E`C34Q=+P%EHM34?")0T5I]C3@R**\%QSFN6&lt;*J^DMZ(I:2Y!E]A3@Q""['6O!*0)%H]!1?JF0A#4Q")JAQ'"S#AJ/#$M'8Q".Y_&amp;$A#4S"*`!%(JL;&amp;9KW-HP.@C@(9TT'9TT'9TQ-)?-R(O-R(O.B7"G0]2C0]2A05]FYD-&gt;Y$-2-SP1SAZE443=4'!_P&gt;L?Y8;6M%L?^`T7('V8^"F3`M&gt;2P'05&lt;1@U#KV]Y^1OCPN$K#[C_-/I`70W(K!06*V9@5,WDNLRPK$7VIJ&lt;5AJJ4-WJ+4@;H`H$(\8;LT7;D^8KNV7KFZ8+JR7+B_8SOW7SG[83KS72S@&amp;L&gt;MA`&lt;W?FT[?8+.W^X^Q_P&gt;`@N]_8[]?(1^E4@X[DBO@18HIU[V_\E-=];P1/50:R!!!!!!!</Property>
-	<Property Name="NI.Lib.LocalName" Type="Str">tag bus configurable plugin editor node</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">DDS editor node</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
