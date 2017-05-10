@@ -22,7 +22,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DDS configuration.lvclass" Type="LVClass" URL="../module/configuration/DDS configuration.lvclass"/>
 		<Item Name="DDS editor node.lvclass" Type="LVClass" URL="../editor node/DDS editor node.lvclass"/>
-		<Item Name="DDS runtime.lvclass" Type="LVClass" URL="../module/execution/DDS runtime.lvclass"/>
+		<Item Name="dds runtime.lvclass" Type="LVClass" URL="../module/execution/DDS runtime.lvclass"/>
 		<Item Name="dds tests.lvlib" Type="Library" URL="../testing/dds tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
