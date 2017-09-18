@@ -1,4 +1,4 @@
-!/usr/bin/env groovy
+#!/usr/bin/env groovy
 //Leave the above line alone.  It identifies this as a groovy script.
 
 //Modify the below parameters to match the values for this particular repo
