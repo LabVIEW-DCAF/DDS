@@ -10,31 +10,31 @@
 	<Item Name="test definitions" Type="Folder">
 		<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:Add Remove Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">6449D6E3-C41D-4E36-7784-3F4CD100ADF8</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">54D27D77-E5B2-4A45-402D-8823E40619A9</Property>
 		</Item>
 		<Item Name="example test.lvtest" Type="TestItem" URL="../example test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:example test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">2F8D2B7C-50B5-2C91-270E-4E1A5F21EC43</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">7C424F9B-7C78-BCE9-2D6A-46FA757C0C0D</Property>
 		</Item>
 		<Item Name="get channels test.lvtest" Type="TestItem" URL="../get channels test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:get channels test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">173655E2-80E6-68EC-FFB2-AA3AE8D322A8</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">55B55A0E-7203-FF86-B9AA-46A449D779E1</Property>
 		</Item>
 		<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:init runtime test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">0DCABA76-4CAF-47E9-6791-BB1BC7CF25AF</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">3490597B-32EC-AAE4-BFE0-E5CD8EA00875</Property>
 		</Item>
 		<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:modify channel test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">95656516-ED91-52D9-2E2E-5181A5D9E715</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">B07FA394-EDA7-10FB-B366-72A8A38B1CFB</Property>
 		</Item>
 		<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:serialization tests.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">ADD77D78-E211-04F3-AE5B-8F2570D09630</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">E2EF248E-AE86-BD86-B04B-05C6817FA0AA</Property>
 		</Item>
 		<Item Name="ToTable Test.lvtest" Type="TestItem" URL="../ToTable Test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">dds tests.lvlib:ToTable Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">8EC17F9B-907D-B30D-9905-B6EF02EFA166</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">B2ABB4F9-CBDB-1F7B-86CA-F5F1A4882197</Property>
 		</Item>
 	</Item>
 	<Item Name="test source" Type="Folder">
